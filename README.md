@@ -7,9 +7,11 @@ Tools:
 - [esptool](https://github.com/espressif/esptool) (installed via pip requirement)
 - [esp32knife](https://github.com/BlackVS/esp32knife) by [BlackVS](https://github.com/BlackVS)
 - [ESP-Firmware-Patcher](https://github.com/wilco375/ESP-Firmware-Patcher) by me
+
 Ghidra scripts:
 - [SVD-Loader for Ghidra](https://github.com/leveldown-security/SVD-Loader-Ghidra) by [leveldown security](https://github.com/leveldown-security)
 - [IdentifyLoggingStrings](https://gist.github.com/wilco375/0bd75cd8303b8e0c3b0189b0a0622f08) by me
+
 Files for Ghidra analysis:
 - [ESP32 ROM function labels](https://gist.github.com/jmswrnr/3095b39f8b1f3631489a5db75a275875) by [James Warner](https://github.com/jmswrnr)
 - [ESP32 SVD files](https://github.com/espressif/svd)
@@ -52,7 +54,7 @@ mitmproxy --mode transparent --showhost
 ```
 
 #### Bluetooth
-On Android, you can use the _Bluetooth HCI snoop_ developer option to log all Bluetooth traffic, and then generate a bugreport with ADB.
+On Android, you can use the _Bluetooth HCI snoop_ developer option to log all Bluetooth traffic, and then generate a bugreport with ADB.  
 With a rooted phone, you can directly view live Bluetooth traffic in Wireshark over ADB.
 
 #### UART
