@@ -1,0 +1,12 @@
+# esp32knife / ESP-Firmware-Patcher requirements
+pyserial
+bitstring==2.2.0
+ecdsa
+cryptography
+reedsolo
+makeelf
+hexdump
+
+# Other tools
+esptool
+mitmproxy>=11.0.0

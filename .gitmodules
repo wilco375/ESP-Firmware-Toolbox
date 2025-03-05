@@ -1,0 +1,18 @@
+[submodule "esp32knife"]
+	path = esp32knife
+	url = https://github.com/BlackVS/esp32knife.git
+[submodule "ESP-Firmware-Patcher"]
+	path = ESP-Firmware-Patcher
+	url = https://github.com/wilco375/ESP-Firmware-Patcher
+[submodule "Ghidra-Files/ESP-SVD"]
+	path = Ghidra-Files/ESP-SVD
+	url = https://github.com/espressif/svd.git
+[submodule "Ghidra-Files/ESP-ROM-Labels"]
+	path = Ghidra-Files/ESP-ROM-Labels
+	url = https://gist.github.com/jmswrnr/3095b39f8b1f3631489a5db75a275875
+[submodule "Ghidra-Scripts/IdentifyLoggingStrings"]
+	path = Ghidra-Scripts/IdentifyLoggingStrings
+	url = https://gist.github.com/wilco375/0bd75cd8303b8e0c3b0189b0a0622f08
+[submodule "Ghidra-Scripts/SVD-Loader-Ghidra"]
+	path = Ghidra-Scripts/SVD-Loader-Ghidra
+	url = https://github.com/leveldown-security/SVD-Loader-Ghidra.git
