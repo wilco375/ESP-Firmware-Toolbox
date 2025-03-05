@@ -19,6 +19,12 @@ Files for Ghidra analysis:
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra/releases/latest)
 
 ## Installation
+### Clone the repo
+```bash
+git clone --recurse-submodules -j8 https://github.com/wilco375/ESP-Firmware-Toolbox.git
+cd ESP-Firmware-Toolbox
+```
+
 ### Python dependencies
 ```bash
 python3 -m venv venv
