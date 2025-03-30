@@ -8,5 +8,5 @@ makeelf
 hexdump
 
 # Other tools
-esptool
+esptool==2.8
 mitmproxy>=11.0.0
