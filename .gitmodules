@@ -16,3 +16,6 @@
 [submodule "Ghidra-Scripts/SVD-Loader-Ghidra"]
 	path = Ghidra-Scripts/SVD-Loader-Ghidra
 	url = https://github.com/leveldown-security/SVD-Loader-Ghidra.git
+[submodule "Ghidra-Files/ESP32-BSim-Signatures"]
+	path = Ghidra-Files/ESP32-BSim-Signatures
+	url = https://github.com/wilco375/ESP32-BSim-Signatures.git
