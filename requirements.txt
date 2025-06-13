@@ -1,6 +1,7 @@
 # esp32knife / ESP-Firmware-Patcher requirements
+setuptools>=59.6.0
 pyserial
-bitstring==2.2.0
+bitstring==3.1.9
 ecdsa
 cryptography
 reedsolo
@@ -8,5 +9,5 @@ makeelf
 hexdump
 
 # Other tools
-esptool==2.8
+esptool>=4.8.1
 mitmproxy>=11.0.0
